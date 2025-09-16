@@ -41,8 +41,6 @@ Library: CSV Module (to handle question data)
 Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/mcq-exam-app.git
-cd mcq-exam-app
 
 2️⃣ Ensure CSV File is Present
 
