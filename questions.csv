@@ -1,0 +1,13 @@
+num,question,option1,option2,option3,option4,correctoption
+1,10+20 ans is,op1=20,op2=30,op3=40,op4=10,op2
+2,Capital of Telangana is,op1=Delhi,op2=Hyderabad,op3=Amaravati,op4=Chennai,op2
+3,"sum of 5,5",10,20,15,30,op1
+4,what is 7**3,op1=343,op2=242,op3=552,op4=433,op1
+5,10*5,op1=55,op2=3,op3=05,op4=50,op4
+6,what is windows ?,op1=OS,op2=game,op3=app,op4=memory,op1
+7,20-20 ans ?,0,2,1,4,op1
+8,what is 30-50,20,-20,30,-30,op2
+9,republic day is on ?,jan 25,jan 24,jan 23,jan 26,op4
+10,what is 2+1?,3,6,3,4,op1
+11,"findout the prime numbers 3,7,9?",7,3,9,All the Above,op4
+12,1,1,2,3,4,op3
