@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 An interactive Multiple Choice Question (MCQ) online examination system built using Python.
 The app dynamically loads questions from a CSV file, conducts the exam, and automatically evaluates user answers.
 
@@ -69,3 +70,6 @@ File handling in Python
 CSV data management
 
 Building basic console-based applications
+=======
+# schoolWebsite
+>>>>>>> 25018357c7c671c822ac21312be41e45208da1b0
