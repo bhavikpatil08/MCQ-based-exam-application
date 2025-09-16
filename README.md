@@ -71,5 +71,3 @@ CSV data management
 
 Building basic console-based applications
 =======
-# schoolWebsite
->>>>>>> 25018357c7c671c822ac21312be41e45208da1b0
